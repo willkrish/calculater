@@ -1,3 +1,5 @@
-calculater
+# calculater
+ 
 
-https://github.com/willkrish/calculater.git 
+https://willkrish.github.io/calcuater/
+ 
