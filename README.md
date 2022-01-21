@@ -1,2 +1,0 @@
-# calculater
-calculater using react
