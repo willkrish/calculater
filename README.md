@@ -1,5 +1,5 @@
 # calculater
  
 
-https://willkrish.github.io/calcuater/
+https://willkrish.github.io/Resume/
  
